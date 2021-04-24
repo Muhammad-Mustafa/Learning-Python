@@ -7,8 +7,8 @@ This is a temporary script file.
 
 # print('Hello');
 
-name = "Mustafa"
-print(name)
+# name = "Mustafa"
+# print(name)
 
 # =============================================================================
 # multiLineString = """Hello 
@@ -36,27 +36,25 @@ print(name)
 # =============================================================================
 
 
-# =============================================================================
-# # List
-# #This list is mutable
-# thisList  = ["apple", 'banana', 'orange']
-# print(thisList)
-# print(thisList[1])
-# print(thisList[-2])
-# 
-# # Range in List
-# 
+# List
+#This list is mutable
+thisList  = ["apple", 'banana', 'orange']
+print(thisList)
+print(thisList[1])
+print(thisList[-2])
+
+# Range in List
+
 # fruitList = ['apple', 'banana', 'watermelone', 'malone', 'orange', 'grapes']
 # print(fruitList[0:2])
-# 
-# 
-# 
-# # tuple 
-# # tuple is immutable
+
+
+
+# tuple 
+# tuple is immutable
 # tuple1 = ('t1', 't1', 't3', 't5')
 # print(tuple1)
 # print(tuple1[0: 2])
-# =============================================================================
 
 # =============================================================================
 # # dictnory
